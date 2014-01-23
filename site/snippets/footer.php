@@ -4,7 +4,7 @@ Footer Snippet for the Baseblog Kirby Theme
 *******************************************/
 ?>
         <footer class="colophon" role="contentinfo">
-            <?php echo kirbytext($site->copyright()) ?> • <a href="#top"> Up ↑</a>
+            <?php echo kirbytext($site->copyright()) ?>
         </footer>
 
     </div><!-- .site -->

@@ -1,4 +1,4 @@
-﻿Title: Keith Taylor
+Title: Keith Taylor
 
 ----
 
@@ -10,4 +10,4 @@ Description:
 
 ----
 
-Copyright: © (date: Year) (link: http://baseblog.sashtown.de text: BASEBLOG) by (link: http://sashtown.de text: Sascha Lack) • Based on (link: http://getkirby.com text: Kirby) • (link: feed text: RSS Feed)
+Copyright: © 2008-(date: Year) (link: http://www.keithtaylorphoto.com text: Keith Taylor) • Based on (link: http://getkirby.com text: Kirby) • (link: feed text: RSS Feed)

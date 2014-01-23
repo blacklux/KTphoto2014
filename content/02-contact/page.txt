@@ -1,4 +1,4 @@
-﻿Title: Contact
+Title: Contact
 
 ----
 
@@ -12,7 +12,7 @@ Minneapolis, MN 55407
 
 (email: keith@keithtaylorphoto.com text: keith@keithtaylorphoto.com)
 
-(link: http://twitter.com/thedarkprints text: @thedarkprints)
+(link: http://twitter.com/thedarkprints text: Twitter)
 
 (link: http://facebook.com/keithtaylorphoto text: Facebook)
 <style>.ig-b- { display: inline-block; }
