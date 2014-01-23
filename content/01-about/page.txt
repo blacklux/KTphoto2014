@@ -1,0 +1,20 @@
+﻿Title: About
+
+----
+
+Description: This is my About page.
+
+----
+
+Text: I'm a photographer and printmaker, born in <a href="http://en.wikipedia.org/wiki/Bromley">Bromley</a>, England, but since 1996 I've been living in <a href="http://en.wikipedia.org/wiki/Minneapolis">Minneapolis, Minnesota</a>.
+
+### My Photography
+My photography has been widely exhibited across the US and the UK, I'm a three-time recipient of <a href="http://www.arts.state.mn.us/grants/artist-initiative.htm">Individual Artist Fellowships</a> from the <a href="http://www.arts.state.mn.us/">Minnesota State Arts Board</a>, and my photographs are held in many private and corporate collections. In 2011 I was awarded a <a href="http://www.mnbookarts.org/artistsprograms/mentorship.html">Minnesota Center for Book Arts/Jerome Foundation mentorship</a>.
+
+### Printing Services
+Besides working on my own photography, I also print for other photographers. I started my career as a black and white printer in London printing advertising, fashion and editorial images for photographers. Throughout the 1980s and 1990s I was one of a handful of printers in London who specialized in printing exhibitions and portfolios, and for producing prints that won numerous awards from the <a href="http://www.the-aop.org/">Association of Photographers</a>, the British Picture Editors’ Awards and the Ilford Photographic Awards.
+
+### Alternative Processes
+It was while I was still in London that I became increasingly interested in the historical, or alternative, processes. Then, in 1996, I emigrated to the United States, to Minneapolis. Since then I've specialised in platinum-palladium, polymer-photogravure, gelatin-silver and 3-colour gum dichromate prints, both for my own work and for those clients I still work with across the US, the UK and Europe.
+
+As well as providing a printing service for others I also write for photographic publications and give talks and workshops on those same historical processes.
