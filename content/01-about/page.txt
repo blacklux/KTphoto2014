@@ -2,7 +2,7 @@
 
 ----
 
-Description: This is my About page.
+Description: About page
 
 ----
 

@@ -1,8 +1,8 @@
-Title: Contact
+﻿Title: Contact
 
 ----
 
-Description: Contact page.
+Description: Contact page
 
 ----
 
