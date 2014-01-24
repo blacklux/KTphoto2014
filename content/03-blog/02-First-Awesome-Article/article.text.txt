@@ -1,0 +1,17 @@
+﻿Title: First Post Using Kirby CMS
+
+----
+
+Description: First post using Kirby NoDB CMS
+
+----
+
+Date: 2014-01-23
+
+----
+
+Categories: Technology
+
+----
+
+Text: I've been working with (link: http://www.getkirby.com text: Kirby) now for a while...
