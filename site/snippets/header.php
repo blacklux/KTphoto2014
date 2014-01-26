@@ -39,3 +39,4 @@ Header Snippet for the Baseblog Kirby Theme
             <a href="<?php echo url() ?>"><h1><?php echo html($site->title()) ?></h1></a>
             <p><?php echo html($site->description()) ?></p>
         </header>
+

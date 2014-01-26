@@ -1,0 +1,11 @@
+Title: Home
+
+----
+
+Description: Home page
+
+----
+
+Text: <center>What do you want to do? See my personal work or have prints made of your own work?
+### Personal Photography
+### Print & Processing Services</center>

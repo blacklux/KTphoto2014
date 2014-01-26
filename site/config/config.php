@@ -104,7 +104,7 @@ your homepage for example. Just change it here in that case.
 
 */
 
-c::set('home', 'about');
+c::set('home', 'home');
 
 
 /*
@@ -265,6 +265,8 @@ c::set('cache.autoupdate', true);
 c::set('cache.data', true);
 c::set('cache.html', true);
 c::set('cache.ignore', array());
+
+/* Set caching to false, true, true, true, array for deployment - KT */
 
 
 /*
