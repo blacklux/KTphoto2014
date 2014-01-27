@@ -111,7 +111,7 @@ a:focus {
 
 .menu {
     margin: 0 0 60px 0;
-    background: #FFF;
+    background: #444;
 }
 .menu li {
     float: left;
@@ -122,12 +122,12 @@ a:focus {
     font-size: 1em;
     line-height: 1.4em;
     padding: 10px;
-    color: #666;
+    color: #fff;
     text-transform: uppercase;
     text-decoration: none;
 }
 .menu a:hover {
-    background: #f1f1f1;
+    background: #dd4a38;
 }
 
 
